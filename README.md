@@ -1,2 +1,2 @@
-# Code-Mixed-Information-Retrieval
+# Information Retrieval on Code-Mixed social media data
 B. Tech. Project (CSE, IIT BHU)
